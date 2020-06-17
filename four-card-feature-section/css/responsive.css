@@ -1,0 +1,50 @@
+
+/* RESPONSIVIDADE TABLET */
+
+@media only screen and (max-width:900px) and (min-width:630px){
+    .card.card-push {
+        transform: translateY(0);
+    }
+    .card {
+        margin-bottom: 35px;
+    }
+}
+
+
+/* RESPONSIVIDADE MOBILE */
+
+@media only screen and (max-width:630px) {
+
+    body {
+        height: 100vh;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header h1 {
+        margin: 15px 5px;
+        font-size: 25px;
+    }
+    
+    .card.card-push {
+        transform: translateY(0);
+    }
+    .card {
+        margin-bottom: 20px;
+    }
+
+    .card img {
+        width: 60px;
+        height: 55px;
+    }
+
+    footer {
+        position: relative;
+        margin: 20px 0;
+    }
+    .attribution {
+        font-size: 12px;
+    }
+}
