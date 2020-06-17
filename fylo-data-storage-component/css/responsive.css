@@ -1,0 +1,49 @@
+/* RESPONSIVIDADE MOBILE */
+
+@media only screen and (max-width:500px) {
+    body {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+        background-image: url(../images/bg-mobile.svg) ;
+        background-color: var(--very-Dark-Blue);
+    }
+    
+    .container {
+        width: 95%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .info {
+        width: 90%;
+        height: 170px;
+        padding: 20px;
+        margin: 20px 0;
+    }
+    .storage {
+        width: 90%;
+        height: 160px;
+        padding: 20px;
+    }
+    .progress-bar {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .info-bar {
+        position: absolute;
+        top: 60px;
+        right: inherit;
+        display: flex;
+    }
+
+    .progress-bar::after {
+        display: none;
+    }
+    .progress {
+        align-self: baseline;
+    }
+    
+}
