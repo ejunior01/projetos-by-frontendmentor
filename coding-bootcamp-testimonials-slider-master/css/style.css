@@ -26,8 +26,8 @@ body {
 .items-container {
   width: 100%;
   height: 100%;
-  background: url("/images/pattern-curve.svg") bottom left no-repeat,
-    url("/images/pattern-bg.svg") 95% 37%/85vh no-repeat;
+  background: url("/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg") bottom left no-repeat,
+    url("coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg") 95% 37%/85vh no-repeat;
   display: grid;
   place-items: center;
 }
