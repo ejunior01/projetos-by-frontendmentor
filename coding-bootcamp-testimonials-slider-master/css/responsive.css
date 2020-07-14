@@ -46,7 +46,7 @@
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 600px) {
   .items-container {
     background: url("/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg") bottom left/40vh no-repeat,
       url("/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg") 50% 5%/ 92% 45% no-repeat;
@@ -116,8 +116,8 @@
 
   .slide {
     position: absolute;
-    top: 42vh;
-    right: 36vw;
+    top: 43vh;
+    right: 45vw;
     width: 90px;
     height: 45px;
   }
