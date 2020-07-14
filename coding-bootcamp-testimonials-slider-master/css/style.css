@@ -47,7 +47,7 @@ body {
   display: grid;
   grid-template-columns: 42% 58%;
   place-items: center;
-  background: url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg") 8% 25% no-repeat;
+  background: url("/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg") 8% 25% no-repeat;
   transition: opacity 0.6s;
   opacity: 0;
 }
@@ -123,10 +123,3 @@ body {
   background: none;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
