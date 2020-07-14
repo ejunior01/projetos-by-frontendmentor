@@ -1,7 +1,7 @@
 @media (max-width: 1366px) {
   .items-container {
-    background: url("/images/pattern-curve.svg") bottom left no-repeat,
-      url("/images/pattern-bg.svg") 80% 50%/90vh no-repeat;
+    background: url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg") bottom left no-repeat,
+      url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg") 80% 50%/90vh no-repeat;
   }
 
   .items {
@@ -10,7 +10,7 @@
 
   .item {
     grid-template-columns: 1fr 1fr;
-    background: url("/images/pattern-quotes.svg") 10% 5% no-repeat;
+    background: url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg") 10% 5% no-repeat;
   }
 
   .item .item-img img {
@@ -48,8 +48,8 @@
 
 @media (max-width: 375px) {
   .items-container {
-    background: url("/images/pattern-curve.svg") bottom left/40vh no-repeat,
-      url("/images/pattern-bg.svg") 50% 5%/ 92% 45% no-repeat;
+    background: url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg") bottom left/40vh no-repeat,
+      url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg") 50% 5%/ 92% 45% no-repeat;
     display: grid;
     place-items: center;
   }
@@ -71,7 +71,7 @@
     grid-template-columns: 1fr;
     grid-template-areas: "item-img"
     "item-content";
-    background: url("/images/pattern-quotes.svg") 50% 55%/65px no-repeat;
+    background: url("projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/images/pattern-quotes.svg") 50% 55%/65px no-repeat;
   }
 
   .item .item-img {
