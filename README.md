@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="50%" alt="Logo Casa Criativa" src="./design/logo_frontendmentor.png" />
+    <img width="350px" alt="Logo Casa Criativa" src="./design/logo_frontendmentor.png" />
 </p>
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/projetos-by-frontendmentor">
@@ -20,6 +20,7 @@ Esse repositório tem como objetivo listar e agrupar os desafios que realizei at
 
 O site foi adaptado para as seguintes larguras: Mobile: 375px e Desktop: 1440px
 
+
 **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/fylo-data-storage-component/)**
 
 ---
@@ -27,9 +28,10 @@ O site foi adaptado para as seguintes larguras: Mobile: 375px e Desktop: 1440px
 ### :zap:[Coding-Bootcamp-Testimonials-Slider-Master](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/coding-bootcamp-testimonials-slider-master)
 **The challenge**: Desafio é criar dois cartões de testemunhos e realizar a troca de visualização de ambos como um slide. E fazer com que pareça o mais próximo possível do design proposto.
 
-**Requisitos: **Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. Navegar pelos controle deslizante usando o mouse / trackpad ou teclado utilizando as setas.
+**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. Navegar pelos controle deslizante usando o mouse / trackpad ou teclado utilizando as setas.
 
 O site foi adaptado para as seguintes larguras: Mobile: 375px, Desktop: 1440px e Desktop: 1366px.
+
 
 **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/)**
 
@@ -38,9 +40,10 @@ O site foi adaptado para as seguintes larguras: Mobile: 375px, Desktop: 1440px e
 ### :zap:[Four-Card-Feature-Section](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/four-card-feature-section)
 **The challenge**: Desafio é criar quatro seções de cartões, e fazer com que pareça o mais próximo possível do design proposto.
 
-**Requisitos: **Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
+**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
 
 O site foi adaptado para as seguintes larguras: Mobile: 375px, Tablet 768px e Desktop: 1440px.
+
 
 **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/four-card-feature-section/)**
 
