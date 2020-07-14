@@ -9,7 +9,7 @@
 
 ## INTRODUÇÃO
 
-Esse repositório tem como objetivo listar e agrupar os desafios que realizei através dos conteúdos do site [FrontEnd Mentor](https://www.frontendmentor.io).
+Esse repositório tem como objetivo listar e agrupar os desafios que realizei através das propostas do site [FrontEnd Mentor](https://www.frontendmentor.io).
 
 ## LISTA DE DESAFIOS
 
@@ -28,7 +28,7 @@ O site foi adaptado para as seguintes larguras: Mobile: 375px e Desktop: 1440px
 ### :zap:[Coding-Bootcamp-Testimonials-Slider-Master](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/coding-bootcamp-testimonials-slider-master)
 **The challenge**: Desafio é criar dois cartões de testemunhos e realizar a troca de visualização de ambos como um slide. E fazer com que pareça o mais próximo possível do design proposto.
 
-**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. Navegar pelos controle deslizante usando o mouse / trackpad ou teclado utilizando as setas.
+**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. E Navegar pelos controle deslizante usando o mouse / trackpad ou teclado utilizando as setas.
 
 O site foi adaptado para as seguintes larguras: Mobile: 375px, Desktop: 1440px e Desktop: 1366px.
 
