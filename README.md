@@ -52,7 +52,9 @@ O site foi adaptado para as seguintes larguras: Mobile: 375px, Tablet 768px e De
 ### :zap:[Article-Preview-Component](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/article-preview-component-master)
 **The challenge**: Desafio é criar o Componente de visualização do artigo, e mostrar os links de mídias sociais quando clicado no botão. Fazendo com que se pareça o mais próximo possível do design proposto no site [Frontend Mentor](https://www.frontendmentor.io//).
 
-**Requisitos**: Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. E deve ser capaz de ver os links de compartilhamento de mídia sociais, quando clicar no ícone de compartilhamento. O site foi adaptado para as seguintes larguras: Mobile: 375px e  Desktop: 1440px.
+**Requisitos**: Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. E deve ser capaz de ver os links de compartilhamento de mídia sociais, quando clicar no ícone de compartilhamento.
+
+O site foi adaptado para as seguintes larguras: Mobile: 375px e  Desktop: 1440px.
 
 **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/article-preview-component-master/)**
 
