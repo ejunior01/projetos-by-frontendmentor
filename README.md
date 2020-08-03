@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="350px" alt="Logo Casa Criativa" src="./design/logo_frontendmentor.png" />
+    <img width="350px" src="./design/logo_frontendmentor.png" />
 </p>
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/projetos-by-frontendmentor">
