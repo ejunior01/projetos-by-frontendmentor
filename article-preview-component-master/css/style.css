@@ -278,8 +278,8 @@ p {
   }
 
   #section-container {
-    width: 90%;
-    height: 90%;
+    width: 95%;
+    height: 95%;
     display: grid;
     grid-template-rows: 35% 65%;
     grid-template-columns: 1fr;
