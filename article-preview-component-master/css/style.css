@@ -208,8 +208,8 @@ p {
 
 @media only screen and (max-width: 700px) {
   #section-container {
-    width: 70%;
-    height: 80%;
+    width: 95%;
+    height: 95%;
     display: grid;
     grid-template-rows: 35% 65%;
     grid-template-columns: 1fr;
@@ -242,7 +242,7 @@ p {
     height: 100%;
     padding-right: 40%;
     border-radius: 0 0 12px 12px;
-    gap:5px;
+    gap: 5px;
   }
 
   .share-social.active a img {
@@ -252,12 +252,22 @@ p {
   .share-social.active a img:hover {
     transform: scale(1.7);
   }
-  
 
   .share.rotate {
     z-index: 2;
     background-color: var(--Desaturated-Dark-Blue);
     transform: rotate(-180deg);
+  }
+
+  p {
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: initial;
+  }
+
+  .card-info .card-info-usr div h3,
+  .card-info .card-info-usr div p {
+    font-size: 1.3rem;
   }
 }
 
@@ -296,7 +306,7 @@ p {
     width: 90vw;
     height: 100%;
     padding-right: 30%;
-    gap:5px;
+    gap: 5px;
   }
 
   .share-social.active a img {
@@ -305,5 +315,10 @@ p {
 
   .share-social.active a img:hover {
     transform: scale(1.3);
+  }
+
+  .card-info .card-info-usr div p,
+  .card-info .card-info-usr div h3 {
+    font-size: initial;
   }
 }
