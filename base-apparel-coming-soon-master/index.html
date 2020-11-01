@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -41,19 +41,25 @@
               placeholder="Email Address"
               required
             />
+            <span class="icon-error"></span>
             <button type="submit">
               <img src="./images/icon-arrow.svg" alt="" />
             </button>
           </form>
+          <span class="txt-error"></span>
         </div>
       </section>
       <section class="page-img">
         <picture>
-          <source media="(max-width: 500px)" srcset="./images/hero-mobile.jpg">
-          <source srcset="./images/hero-desktop.jpg">
+          <source
+            media="(max-width: 500px)"
+            srcset="./images/hero-mobile.jpg"
+          />
+          <source srcset="./images/hero-desktop.jpg" />
           <img srcset="./images/hero-desktop.jpg" alt="" />
         </picture>
       </section>
     </div>
+    <script src="./script.js"></script>
   </body>
 </html>
