@@ -11,54 +11,26 @@
 
 Esse repositório tem como objetivo listar e agrupar os desafios que realizei através das propostas do site [FrontEnd Mentor](https://www.frontendmentor.io).
 
-## LISTA DE DESAFIOS
+## LISTA DE DESAFIOS REALIZADOS
 
-### :zap:[Fylo-Data-Storage-Component](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/fylo-data-storage-component)
-**The challenge**: Desafio é criar o componente de armazenamento de dados, e fazer com que pareça o mais próximo possível do design proposto.
+### Nível Novato
 
-**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
-
-O site foi adaptado para as seguintes larguras: Mobile: 375px e Desktop: 1440px
+#### :zap:[Article-Preview-Component](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/article-preview-component-master) - **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/article-preview-component-master/)**
 
 
-**:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/fylo-data-storage-component/)**
+#### :zap:[Four-Card-Feature-Section](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/four-card-feature-section) - **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/four-card-feature-section/)**
+
 
 ---
 
-### :zap:[Coding-Bootcamp-Testimonials-Slider-Master](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/coding-bootcamp-testimonials-slider-master)
-**The challenge**: Desafio é criar dois cartões de testemunhos e realizar a troca de visualização de ambos como um slide. E fazer com que pareça o mais próximo possível do design proposto.
+### Nível Junior
 
-**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. E Navegar pelos controle deslizante usando o mouse / trackpad ou teclado utilizando as setas.
+#### :zap: [Fylo-Data-Storage-Component](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/fylo-data-storage-component) - **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/fylo-data-storage-component/)**
 
-O site foi adaptado para as seguintes larguras: Mobile: 375px, Desktop: 1440px e Desktop: 1366px.
-
-
-**:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/)**
+#### :zap:[Coding-Bootcamp-Testimonials-Slider-Master](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/coding-bootcamp-testimonials-slider-master) - **:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/coding-bootcamp-testimonials-slider-master/)**
 
 ---
 
-### :zap:[Four-Card-Feature-Section](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/four-card-feature-section)
-**The challenge**: Desafio é criar quatro seções de cartões, e fazer com que pareça o mais próximo possível do design proposto.
-
-**Requisitos:** Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo.
-
-O site foi adaptado para as seguintes larguras: Mobile: 375px, Tablet 768px e Desktop: 1440px.
-
-
-**:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/four-card-feature-section/)**
-
----
-
-### :zap:[Article-Preview-Component](https://github.com/ejunior01/projetos-by-frontendmentor/tree/master/article-preview-component-master)
-**The challenge**: Desafio é criar o Componente de visualização do artigo, e mostrar os links de mídias sociais quando clicado no botão. Fazendo com que se pareça o mais próximo possível do design proposto no site [Frontend Mentor](https://www.frontendmentor.io//).
-
-**Requisitos**: Os usuários devem ser capazes de Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo. E deve ser capaz de ver os links de compartilhamento de mídia sociais, quando clicar no ícone de compartilhamento.
-
-O site foi adaptado para as seguintes larguras: Mobile: 375px e  Desktop: 1440px.
-
-**:computer: [Preview](https://ejunior01.github.io/projetos-by-frontendmentor/article-preview-component-master/)**
-
----
 
 
 ### :pencil: Licença
